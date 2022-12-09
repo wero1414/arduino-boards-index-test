@@ -16,11 +16,11 @@
             "category": "Contributed",
             "url": "https://github.com/wero1414/arduino-boards-index-test/raw/main/IDE_Board_Manager/electroniccats-wch-1.0.0.tar.bz2",
             "archiveFileName": "electroniccats-wch-1.0.0.tar.bz2",
-            "checksum": "SHA-256:",
+            "checksum": "SHA-256:ce385a056ab7e13b35d0d45af4e479be2f2f54fac4d703cc9b9fa69375493164",
             "help": {
               "online": "https://electroniccats.com/"
               },
-            "size": "327598",
+            "size": "2317609",
                   "boards": [
                       {"name": "WCH852"}
             ],
@@ -89,8 +89,8 @@
           ]
         },
         {
-          "name": "CMSIS-Atmel",
-          "version": "1.0.0-electroniccats-1",
+          "name": "riscv-none-embed-gcc",
+          "version": "10.2.0-1.2-xPack",
           "systems": [
           {
             "host": "i686-mingw32",
@@ -115,10 +115,10 @@
           },
           {
             "host": "x86_64-apple-darwin",
-            "url": "https://github.com/ElectronicCats/CMSIS-Atmel/releases/download/1.0.0-electroniccats-1/CMSIS-Atmel-1.0.0-electroniccats.tar.gz",
-            "archiveFileName": "CMSIS-Atmel-1.0.0-electroniccats.tar.gz",
-            "checksum": "SHA-256:d673a929c71d9b7a0146cb9dcde800cc2453b2824a3f10176ea5c5bf68bd5cd4",
-            "size": "2216310"
+            "url": "https://github.com/xpack-dev-tools/riscv-none-embed-gcc-xpack/releases/download/v10.2.0-1.2/xpack-riscv-none-embed-gcc-10.2.0-1.2-darwin-x64.tar.gz",
+            "archiveFileName": "xpack-riscv-none-embed-gcc-10.2.0-1.2-darwin-x64.tar.gz",
+            "checksum": "SHA-256:62637b65ba5f57b88ee32ebf329164cbd9b2fa1d4531915950f707499a7efa2a",
+            "size": "565850429"
           }
           ]
         },
