@@ -12,15 +12,15 @@
           {
             "name": "Electronic Cats WCH Boards",
             "architecture": "wch",
-            "version": "1.0.0",
+            "version": "1.0.1",
             "category": "Contributed",
-            "url": "https://github.com/wero1414/arduino-boards-index-test/raw/main/IDE_Board_Manager/electroniccats-wch-1.0.0.tar.bz2",
-            "archiveFileName": "electroniccats-wch-1.0.0.tar.bz2",
-            "checksum": "SHA-256:8b4838c64a7e61b02ce7796d6a60b3496594a83692826ab17c8a3f5770d37962",
+            "url": "https://github.com/wero1414/arduino-boards-index-test/raw/main/IDE_Board_Manager/electroniccats-wch-1.0.1.tar.bz2",
+            "archiveFileName": "electroniccats-wch-1.0.1.tar.bz2",
+            "checksum": "SHA-256:4118a489132d0f981d58110e5bb2ad2c363531bfcfb089a8c1a7d4cf2cd32508",
             "help": {
               "online": "https://electroniccats.com/"
               },
-            "size": "2599255",
+            "size": "1770088",
                   "boards": [
                       {"name": "WCH852"}
             ],
